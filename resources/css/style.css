@@ -1,0 +1,16 @@
+html{
+    background-color: black;
+    color: white;
+    font-size: 22px;
+}
+
+h1 {
+    text-align: center;
+    width: 100%;
+}
+
+p {
+    text-align: center;
+    font-size: 0.75rem; 
+    color:aquamarine;
+}
