@@ -14,3 +14,9 @@ p {
     font-size: 0.75rem; 
     color:aquamarine;
 }
+
+.main-video {
+    display: block;
+    margin: auto;
+}
+
